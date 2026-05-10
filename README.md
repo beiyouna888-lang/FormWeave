@@ -22,7 +22,7 @@ FormWeave 是一款大模型驱动的 AI CAD Agent，工程师通过自然语言
 
 ## 文档
 
-- [项目文档](docs/FormWeave_项目文档.md) — 详细技术方案与商业分析
+- [项目文档](docs/FormWeave 面向工程设计场景的设计助手.docx) — 详细技术方案与商业分析
 
 ## 路线图
 
